@@ -20,7 +20,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 - **Top Customers**: Highest revenue contributors.
 - **Demographics**: Country-wise and month-wise customer distribution.
 
-### 3. 📦 **Product Analysis**
+### 3. 🗃️ **Product Analysis**
 - **Category Performance**: Revenue, quantity sold, and discount amounts.
 - **Top Products**: By revenue and by units sold.
 - **Inventory Insights**: Products out of stock or requiring reordering.
