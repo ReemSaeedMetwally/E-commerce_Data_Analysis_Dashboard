@@ -83,13 +83,13 @@ The E-commerce Dashboard is divided into four interactive sections:
 ## 🖼️ Dashboard Preview
 
 ### Sales Analysis
-![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Overview_1.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Sales%20Analysis.PNG)
 
 ### Customer Analysis
-![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Time_Analysis_2.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Customer%20Analysis.PNG)
 
 ### Product Analysis
-![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Details.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Product%20Analysis.PNG)
 
 ### RFM Segmentation
-![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Details.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/RFM%20Segmentation.PNG)
