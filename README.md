@@ -72,15 +72,24 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ---
 
-## 📁 Project Structure
+## 📌 Dashboard & Report
 
-```bash
-📦 E-commerce-Dashboard
-├── 📊 Power BI Dashboard (.pbix)
-├── 📁 Screenshots/
-│   ├── 1.PNG (Sales View)
-│   ├── 2.PNG (Customer View)
-│   ├── 3.PNG (Product View)
-│   └── 4.PNG (RFM View)
-├── 📄 README.md
-└── 📁 Data/ (Optional raw data CSVs)
+📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDc5Mjk2ZjItN2M4Yi00ZTc0LTkxOTYtM2Q5ZDc0Y2JmMzg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
+
+📎 [Full Report (PDF)]()  
+
+---
+
+## 🖼️ Dashboard Preview
+
+### Sales Analysis
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Overview_1.PNG)
+
+### Customer Analysis
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Time_Analysis_2.PNG)
+
+### Product Analysis
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Details.PNG)
+
+### RFM Segmentation
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Details.PNG)
