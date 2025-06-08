@@ -1,6 +1,30 @@
 # 📦 E-commerce Data Analysis Dashboard
 
-This project presents a comprehensive Power BI dashboard analyzing an e-commerce dataset, providing insights into sales trends, customer behavior, product performance, and RFM segmentation. The dashboard is designed for business stakeholders to monitor performance and make data-driven decisions.
+This project provides an end-to-end data analysis and interactive visualization of an e-commerce dataset using **Power BI**. The dashboard provides stakeholders with a 360-degree view of business performance, encompassing sales, customer behavior, product trends, and RFM segmentation.
+
+---
+
+## 🔍 Project Objectives
+
+- Analyze revenue growth trends over time.
+- Identify top-performing products, categories, and customers.
+- Monitor customer conversion, retention, and purchasing frequency.
+- Detect inventory and supply chain inefficiencies.
+- Segment customers using Recency, Frequency, and Monetary (RFM) metrics.
+
+---
+
+## 🗃️ Dataset Description
+
+The dataset comprises the following structured tables:
+
+| Table         | Description |
+|---------------|-------------|
+| **Customers** | Includes customer names, contact details, cities, and countries |
+| **Categories** | Contains product category names and descriptions |
+| **Products** | Contains product-level details, including prices and inventory |
+| **Orders** | Includes sales order metadata, including order date, shipping location, and freight |
+| **OrderDetails** | Transaction-level data including quantities, unit prices, and discounts |
 
 ---
 
@@ -31,14 +55,6 @@ The E-commerce Dashboard is divided into four interactive sections:
 - **Segments**: Champion, Loyal, At Risk, Needs Attention, etc.
 - **Tiering**: Platinum, Gold, Silver, Bronze.
 - **Customer-Level Details**: Score table for micro-targeting.
-
----
-
-## 🗃️ Dataset
-
-- **Source**: [Kaggle / Fictional E-Commerce Dataset] (Assumed or customize based on your data)
-- **Time Frame**: 1996 – 1998
-- **Key Fields**: Order ID, Customer ID, Product, Category, Quantity, Revenue, Discount, Shipping Cost, Order Date, etc.
 
 ---
 
