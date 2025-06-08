@@ -28,6 +28,16 @@ The dataset comprises the following structured tables:
 
 ---
 
+## 🛠️ Skills and Tools
+
+- Skills: ETL with Power Query, Data wrangling, Data Cleaning, Feature Engineering, Dashboard Design, Business Insight Extraction, KPI Reporting, Story-telling.
+- Tools:
+  * **Microsoft Excel**: Data wrangling and transformation
+  * **Power BI**: Data visualization and interactive dashboards
+  * **DAX**: Custom measures, KPIs, and dynamic filtering logic
+
+---
+
 ## 📊 Dashboard Overview
 
 The E-commerce Dashboard is divided into four interactive sections:
@@ -63,7 +73,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 - 📉 Revenue dropped by **28.60%** in 1998—potential factors include lower customer acquisition, stockouts, or macro trends.
 - 🌍 **USA** and **Germany** generated the highest revenue.
 - 🏙️ **Cunewalde** is the top city by revenue, despite being a lesser-known location.
-- 🛍️ **QUICK-Stop** and **Côte de Blaye** (product) are top customer and product contributors respectively.
+- 🛍️ **QUICK-Stop** and **Côte de Blaye** (product) are top customer and product contributors, respectively.
 - 🔁 High customer loyalty with **98.88% repeat rate**.
 - 📉 Several high-performing products are **out of stock**, risking revenue loss.
 
@@ -79,12 +89,22 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ---
 
-## 🛠️ Tools Used
+## 📌 Recommendations
 
-- **Power BI**: Dashboard creation and visualization
-- **DAX**: Measures and KPIs (e.g., CLTV, AOV, Repeat Rate)
-- **Power Query**: Data transformation and modeling
-- **Excel / CSV**: Initial dataset handling
+1. **Boost Revenue Recovery**  
+   Address the 1998 decline by retargeting high-value customers with incentives or win-back campaigns.
+
+2. **Inventory Management**  
+   - Implement automated stock alerts.
+   - Prioritize restocking high-demand items, like Camembert Pierrot and Raclette Courdavault.
+
+3. **Customer Retention Strategies**  
+   - Launch email marketing based on RFM segmentation.
+   - Personalize offers for "At Risk" and "Need Attention" segments.
+
+4. **Expand Strong Markets**  
+   - Deepen focus on top-performing countries, like the USA and Germany.
+   - Consider scaling into promising cities like Boise and Graz.
 
 ---
 
