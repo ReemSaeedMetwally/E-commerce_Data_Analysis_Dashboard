@@ -94,10 +94,17 @@ The E-commerce Dashboard is divided into four interactive sections:
     * Beverages **$267.87K**
     * Dairy Products **$234.51K**.
 - 🛍️ Best-Selling Products: Camembert Pierrot **1.6K units**, Raclette Courdavault.
-- 📉 Several high-performing products are **out of stock**, risking revenue loss.
+- 🗂️ Several high-performing products are **out of stock**, risking revenue loss.
 
 ### RFM Segmentation
-📊  Customers are segmented as: 
+📁  Customers are segmented as: **Champions** with **21.98%**, **Loyal Customers** with **20.88%**, **At risk** with **30.77%**, and **Needs attention** with **26.37%**.
+The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, unlocking value here can drive major growth.
+
+✅  Recommendations: 
+  * Win-back campaigns: email offers, discounts, or feedback surveys.
+  * Investigate reasons behind churn (e.g., pricing, stockouts).
+  * Target with welcome offers, onboarding flows, or product suggestions.
+  * Create nurturing campaigns to build loyalty.
 
 ---
 
