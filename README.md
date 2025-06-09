@@ -42,7 +42,7 @@ The dataset comprises the following structured tables:
 
 The E-commerce Dashboard is divided into four interactive sections:
 
-### 1. 🛒 **Sales Analysis**
+### 1. 📈 **Sales Analysis**
 - **KPIs**: Revenue, Orders, AOV (Average Order Value), YOY Growth.
 - **Trends**: Monthly revenue comparison across 1996, 1997, and 1998.
 - **Geographic Analysis**: Top countries and cities by revenue.
@@ -54,7 +54,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 - **Top Customers**: Highest revenue contributors.
 - **Demographics**: Country-wise and month-wise customer distribution.
 
-### 3. 🗃️ **Product Analysis**
+### 3. 🛒 **Product Analysis**
 - **Category Performance**: Revenue, quantity sold, and discount amounts.
 - **Top Products**: By revenue and by units sold.
 - **Inventory Insights**: Products out of stock or requiring reordering.
@@ -70,12 +70,34 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ## 💡 Insights & Observations
 
-- 📉 Revenue dropped by **28.60%** in 1998—potential factors include lower customer acquisition, stockouts, or macro trends.
-- 🌍 **USA** and **Germany** generated the highest revenue.
-- 🏙️ **Cunewalde** is the top city by revenue, despite being a lesser-known location.
-- 🛍️ **QUICK-Stop** and **Côte de Blaye** (product) are top customer and product contributors, respectively.
+### Sales
+- 📈 Total Revenue: **$1.27M** over three years.
+- 📉 Revenue Trends:
+    * The highest revenue was observed in April 1997.
+    * Massive growth from 1996 to 1997: **+196.56%**.
+    * Decline in 1998: **-28.60%**, indicating possible lower customer acquisition, stockouts, macro trends, churn, or market saturation.
+- 🌍 Top Revenue Countries:
+    * **USA**: $245.68K
+    * **Germany**: $226.92K
+- 🏙️ Top Cities: **Cunewalde** is the top city by revenue, despite being a lesser-known location, then **Graz** and **Boise**.
+  
+### Customers  
+- 🧍‍♀️ High Conversion rate with **97.8%** from leads to paying customers.
 - 🔁 High customer loyalty with **98.88% repeat rate**.
+- 👥 Top Customers by Revenue:
+    * QUICK-Stop: **$110K**
+    * Ernst Handel: **$105K**
+- 🌍 Top Countries by Customer Count: USA, Germany, and France.
+
+### Products
+- 📦 Top Categories by Revenue:
+    * Beverages **$267.87K**
+    * Dairy Products **$234.51K**.
+- 🛍️ Best-Selling Products: Camembert Pierrot **1.6K units**, Raclette Courdavault.
 - 📉 Several high-performing products are **out of stock**, risking revenue loss.
+
+### RFM Segmentation
+📊  Customers are segmented as: 
 
 ---
 
@@ -91,20 +113,21 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ## 📌 Recommendations
 
-1. **Boost Revenue Recovery**  
+1. **Revive Revenue Growth**  
+
    Address the 1998 decline by retargeting high-value customers with incentives or win-back campaigns.
 
-2. **Inventory Management**  
-   - Implement automated stock alerts.
-   - Prioritize restocking high-demand items, like Camembert Pierrot and Raclette Courdavault.
+3. **Inventory Management**  
+   - Implement automated stock alerts for low stock.
+   - Prioritize restocking high-demand items, like Camembert Pierrot and Raclette Courdavault, and high-revenue products.
 
-3. **Customer Retention Strategies**  
+4. **Customer Retention Strategies**  
    - Launch email marketing based on RFM segmentation.
-   - Personalize offers for "At Risk" and "Need Attention" segments.
+   - Personalize offers for "At Risk" and "Need Attention" segments to focus on converting them into "Loyal Customers" or "Champions"
 
-4. **Expand Strong Markets**  
-   - Deepen focus on top-performing countries, like the USA and Germany.
-   - Consider scaling into promising cities like Boise and Graz.
+5. **Expand Strong Markets**  
+
+   Leverage strong markets (USA, Germany) while exploring growth opportunities in emerging cities like Graz and Boise.
 
 ---
 
