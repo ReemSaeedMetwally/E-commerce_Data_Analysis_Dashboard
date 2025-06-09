@@ -149,7 +149,7 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 ## 🖼️ Dashboard Preview
 
 ### Sales Analysis
-![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Sales%20Analysis.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Sales.PNG)
 
 ### Customer Analysis
 ![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Customer%20Analysis.PNG)
