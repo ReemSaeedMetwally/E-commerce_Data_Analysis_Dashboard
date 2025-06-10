@@ -22,7 +22,7 @@ The dataset comprises the following structured tables:
 |---------------|-------------|
 | **Customers** | Includes customer names, contact details, cities, and countries |
 | **Categories** | Contains product category names and descriptions |
-| **Products** | Contains product-level details, including prices and inventory |
+| **Products** | Contains product-level-details, including prices and inventory |
 | **Orders** | Includes sales order metadata, including order date, shipping location, and freight |
 | **OrderDetails** | Transaction-level data including quantities, unit prices, and discounts |
 
@@ -43,7 +43,7 @@ The dataset comprises the following structured tables:
 The E-commerce Dashboard is divided into four interactive sections:
 
 ### 1. 📈 **Sales Analysis**
-- **KPIs**: Revenue, Orders, AOV (Average Order Value), YOY Growth.
+- **KPIs**: Revenue, Gross Profit, Orders, AOV (Average Order Value), Average Monthly Revenue, YOY Growth.
 - **Trends**: Monthly revenue comparison across 1996, 1997, and 1998.
 - **Geographic Analysis**: Top countries and cities by revenue.
 - **Weekly Sales Patterns**: Daily sales trends for operational insights.
@@ -72,6 +72,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ### Sales
 - 📈 Total Revenue: **$1.27M** over three years.
+- 📅 Avg Monthly Revenue:	**$105.48K**
 - 📉 Revenue Trends:
     * The highest revenue was observed in April 1997.
     * Massive growth from 1996 to 1997: **+196.56%**.
@@ -98,7 +99,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ### RFM Segmentation
 📁  Customers are segmented as: **Champions** with **21.98%**, **Loyal Customers** with **20.88%**, **At risk** with **30.77%**, and **Needs attention** with **26.37%**.
-The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, unlocking value here can drive major growth.
+The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, and unlocking value here can drive major growth.
 
 ✅  Recommendations: 
   * Win-back campaigns: email offers, discounts, or feedback surveys.
