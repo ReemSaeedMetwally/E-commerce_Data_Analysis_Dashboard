@@ -143,7 +143,7 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 
 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U2NDI2NDMtZDJiYS00MzE1LWFkNGUtZDBiMWJjYWQwNzFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
-📎 [Full Report (PDF)]()  
+📎 [Full Report (PDF)](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/E-commerce%20Data%20Analysis%20Report.pdf)  
 
 ---
 
