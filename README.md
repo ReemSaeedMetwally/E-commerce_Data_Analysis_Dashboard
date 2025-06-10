@@ -141,7 +141,7 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 
 ## 📌 Dashboard & Report
 
-📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg3Y2RiNGUtYWEzZC00ZDMzLTk4NjEtOWY5OWMxM2EyNmFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
+📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U2NDI2NDMtZDJiYS00MzE1LWFkNGUtZDBiMWJjYWQwNzFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
 📎 [Full Report (PDF)]()  
 
@@ -153,7 +153,7 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 ![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Sales.PNG)
 
 ### Customer Analysis
-![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Customer%20Analysis.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Customer.PNG)
 
 ### Product Analysis
 ![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Product%20Analysis.PNG)
