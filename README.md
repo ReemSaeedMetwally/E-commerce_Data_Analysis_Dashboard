@@ -43,7 +43,7 @@ The dataset comprises the following structured tables:
 The E-commerce Dashboard is divided into four interactive sections:
 
 ### 1. 📈 **Sales Analysis**
-- **KPIs**: Revenue, Gross Profit, Orders, AOV (Average Order Value), Average Monthly Revenue, YOY Growth.
+- **KPIs**: Revenue, Gross Profit, Orders, AOV (Average Order Value), Average Monthly Revenue, MoM Growth.
 - **Trends**: Monthly revenue comparison across 1996, 1997, and 1998.
 - **Geographic Analysis**: Top countries and cities by revenue.
 - **Weekly Sales Patterns**: Daily sales trends for operational insights.
@@ -74,9 +74,9 @@ The E-commerce Dashboard is divided into four interactive sections:
 - 📈 Total Revenue: **$1.27M** over three years.
 - 📅 Avg Monthly Revenue:	**$105.48K**
 - 📉 Revenue Trends:
-    * The highest revenue was observed in April 1997.
-    * Massive growth from 1996 to 1997: **+196.56%**.
-    * Decline in 1998: **-28.60%**, indicating possible lower customer acquisition, stockouts, macro trends, churn, or market saturation.
+    * The highest revenue was observed in April 1998.
+    * Average Monthly Revenue Growth 1996–1997 shows an increase of **48.28%**
+    * Average Monthly Revenue Growth 1997–1998 shows an even bigger increase of **71.37%**
 - 🌍 Top Revenue Countries:
     * **USA**: $245.68K
     * **Germany**: $226.92K
@@ -94,18 +94,25 @@ The E-commerce Dashboard is divided into four interactive sections:
 - 📦 Top Categories by Revenue:
     * Beverages **$267.87K**
     * Dairy Products **$234.51K**.
-- 🛍️ Best-Selling Products: Camembert Pierrot **1.6K units**, Raclette Courdavault.
-- 🗂️ Several high-performing products are **out of stock**, risking revenue loss.
+- 🛍️ Best-Selling Products: Camembert Pierrot **1.6K units**, Raclette Courdavault **1.5K units**.
+- 🗂️ Several high-performing products are **out of stock**, such as **Alice Mutton** and **Chef Anton’s Gumbo Mix**, risking revenue loss.
 
 ### RFM Segmentation
-📁  Customers are segmented as: **Champions** with **21.98%**, **Loyal Customers** with **20.88%**, **At risk** with **30.77%**, and **Needs attention** with **26.37%**.
+📁  Customers are segmented as: 
+* **Champions** with **21.98%**
+* **Loyal Customers** with **20.88%**
+* **At risk** with **30.77%**
+* **Needs attention** with **26.37%**
+
 The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, and unlocking value here can drive major growth.
 
-✅  Recommendations: 
-  * Win-back campaigns: email offers, discounts, or feedback surveys.
-  * Investigate reasons behind churn (e.g., pricing, stockouts).
-  * Target with welcome offers, onboarding flows, or product suggestions.
-  * Create nurturing campaigns to build loyalty.
+📁  Customers are segmented as: 
+  *  **Platinum**: spent more than **$10K** with **71.76%**
+  *  **Gold**: spent more than **$5K** with **18.68%**
+  *  **Silver**: spent more than **$1K** with **31.87%**
+  *  **Bronze**: spent less than or equal **$1K**, or made **no purchases** yet with **7.69%**
+
+Platinum and Gold tires align with Champions and Loyal segments.
 
 ---
 
@@ -137,6 +144,12 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 
    Leverage strong markets (USA, Germany) while exploring growth opportunities in emerging cities like Graz and Boise.
 
+✅  Recommendations: 
+  * Win-back campaigns: email offers, discounts, or feedback surveys.
+  * Investigate reasons behind churn (e.g., pricing, stockouts).
+  * Target with welcome offers, onboarding flows, or product suggestions.
+  * Create nurturing campaigns to build loyalty.
+
 ---
 
 ## 📌 Dashboard & Report
@@ -156,7 +169,7 @@ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments
 ![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Customer.PNG)
 
 ### Product Analysis
-![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Product%20Analysis.PNG)
+![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/Product.PNG)
 
 ### RFM Segmentation
 ![](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard/blob/main/images/RFM%20Segmentation.PNG)
