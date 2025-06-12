@@ -68,7 +68,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ---
 
-## 💡 Insights & Observations
+## 💡 Dashboard Highlights & Observations
 
 ### Sales
 - 📈 Total Revenue: **$1.27M** over three years.
@@ -114,7 +114,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ---
 
-## 💡 Insights
+## 🧠 Insights
 
 1. High conversion and repeat purchase rates indicate an efficient conversion funnel & strong customer loyalty.
 2. Revenue is heavily concentrated in the top customers and specific regions, making retention and regional focus critical.
