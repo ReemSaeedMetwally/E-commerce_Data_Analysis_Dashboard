@@ -98,61 +98,51 @@ The E-commerce Dashboard is divided into four interactive sections:
 - 🗂️ Several high-performing products are **out of stock**, such as **Alice Mutton** and **Chef Anton’s Gumbo Mix**, risking revenue loss.
 
 ### RFM Segmentation
-📁  Customers are segmented as: 
-* **Champions** with **21.98%**
-* **Loyal Customers** with **20.88%**
-* **At risk** with **30.77%**
-* **Needs attention** with **26.37%**
+- 📁  Customers are segmented as: 
+   * **Champions** with **21.98%**
+   * **Loyal Customers** with **20.88%**
+   * **At risk** with **30.77%**
+   * **Needs attention** with **26.37%**
 
-The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, and unlocking value here can drive major growth.
+ The biggest opportunity lies in the **At Risk** and **Needs Attention** segments. Together, they represent over **57%** of our customers, and unlocking value here can drive major growth.
 
-📁  Customers are segmented as: 
-  *  **Platinum**: spent more than **$10K** with **71.76%**
-  *  **Gold**: spent more than **$5K** with **18.68%**
-  *  **Silver**: spent more than **$1K** with **31.87%**
-  *  **Bronze**: spent less than or equal **$1K**, or made **no purchases** yet with **7.69%**
-
-Platinum and Gold tires align with Champions and Loyal segments.
+- 📁  Customers are segmented as: 
+   *  **Platinum**: spent more than **$10K** with **71.76%**
+   *  **Gold**: spent more than **$5K** with **18.68%**
+   *  **Silver**: spent more than **$1K** with **31.87%**
+   *  **Bronze**: spent less than or equal **$1K**, or made **no purchases** yet with **7.69%**
 
 ---
 
-## 🚀 Features
+## 💡 Insights
 
-- 📅 Dynamic filtering by Year, Month, Country, City, and Product Category.
-- 📈 Interactive line and bar charts for time-series and comparative analysis.
-- 📍 Geo-insights for identifying market hotspots.
-- ⚙️ Inventory intelligence integrated with product sales.
-- 📊 RFM segmentation for customer targeting and retention strategy.
+1. High conversion and repeat purchase rates indicate an efficient conversion funnel & strong customer loyalty.
+2. Revenue is heavily concentrated in the top customers and specific regions, making retention and regional focus critical.
+3. The average MoM Growth of 1996–1997 shows an increase of **48.28%**, while the average MoM Growth of 1997–1998 shows an even bigger increase of **71.37%**, which confirms that the significant increase in the YoY growth of 1996-1997 of **196.56%** is due to partial 1996 data and the sharp decline in the YoY growth of 1997-1998 of **-28.60%** is due to partial 1998 data.
 
 ---
 
 ## 📌 Recommendations
 
-1. **Revive Revenue Growth**  
-
-   Address the 1998 decline by retargeting high-value customers with incentives or win-back campaigns.
-
-3. **Inventory Management**  
+1. **Inventory Management**  
    - Implement automated stock alerts for low stock.
-   - Prioritize restocking high-demand items, like Camembert Pierrot and Raclette Courdavault, and high-revenue products.
+   - Prioritize restocking high-demand items, such as Camembert Pierrot and Raclette Courdavault, as well as high-revenue products.
 
-4. **Customer Retention Strategies**  
+2. **Customer Retention Strategies**  
    - Launch email marketing based on RFM segmentation.
    - Personalize offers for "At Risk" and "Need Attention" segments to focus on converting them into "Loyal Customers" or "Champions"
+     
+3. **Nurture Top Customers**
+  
+   Launch loyalty or VIP programs to retain high-value accounts and reduce churn risk.
 
-5. **Expand Strong Markets**  
+4. **Expand Strong Markets**  
 
    Leverage strong markets (USA, Germany) while exploring growth opportunities in emerging cities like Graz and Boise.
 
-✅  Recommendations: 
-  * Win-back campaigns: email offers, discounts, or feedback surveys.
-  * Investigate reasons behind churn (e.g., pricing, stockouts).
-  * Target with welcome offers, onboarding flows, or product suggestions.
-  * Create nurturing campaigns to build loyalty.
-
 ---
 
-## 📌 Dashboard & Report
+## 📍 Dashboard & Report
 
 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U2NDI2NDMtZDJiYS00MzE1LWFkNGUtZDBiMWJjYWQwNzFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
