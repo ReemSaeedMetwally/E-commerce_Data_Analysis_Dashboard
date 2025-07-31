@@ -62,7 +62,7 @@ The E-commerce Dashboard is divided into four interactive sections:
 
 ### 4. 🧠 **RFM Segmentation**
 - **Scoring**: Recency, Frequency, and Monetary value scoring for customers.
-- **Segments**: Champion, Loyal, At Risk, Needs Attention, etc.
+- **Segments**: Champion, Loyal, At Risk, Needs Attention.
 - **Tiering**: Platinum, Gold, Silver, Bronze.
 - **Customer-Level Details**: Score table for micro-targeting.
 
